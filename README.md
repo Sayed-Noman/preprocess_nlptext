@@ -1,6 +1,5 @@
 # Preprocessing Text Python Package
 
-#### Course Link: https://bit.ly/intro_nlp
 
 This python package is prepared by YourName.
 
@@ -14,11 +13,11 @@ pip install textblob==0.15.3
 
 Install
 
-`pip install git+https://github.com/laxmimerit/preprocess_kgptalkie.git --upgrade --force-reinstall`
+`pip install git+https://github.com/Sayed-Noman/preprocess_nlptext.git --upgrade --force-reinstall`
 
 Uninstall
 
-`pip uninstall preprocess_kgptalkie`
+`pip uninstall preprocess_nlptext`
 
 #### How to use it for preprocessing
 You have to have installed spacy and python3 to make it work.
